@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"xks/mquery/mongoquery"
+	"github.com/Kryptonux/MQuery/mongoquery"
 )
 
 func main() {
