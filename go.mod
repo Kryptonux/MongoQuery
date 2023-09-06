@@ -1,4 +1,4 @@
-module xks/mquery
+module github.com/Kryptonux/MQuery
 
 go 1.20
 
