@@ -1,4 +1,4 @@
-module github.com/Kryptonux/MQuery
+module github.com/Kryptonux/MongoQuery
 
 go 1.20
 
